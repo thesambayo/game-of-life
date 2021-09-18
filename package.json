@@ -1,0 +1,17 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "Jon Conway's",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Samuel Adebayo",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.15.6",
+    "@babel/preset-typescript": "^7.15.0",
+    "@types/jest": "^27.0.1",
+    "jest": "^27.2.0"
+  }
+}
